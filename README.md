@@ -4,7 +4,7 @@ Organize your computer files best pratice
 
 The best way to organize your computer files
 
-How ro organize your files and folder effectively
+How organize your files and folder effectively
 
 
 ROOT
