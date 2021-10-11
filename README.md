@@ -1,4 +1,9 @@
-root
+WHAT IS THIS RESPOSITORY FOR ?
+Organize your computer files best pratice
+The best way to organize your computer files
+How ro organize your files and folder effectively
+
+ROOT
 The root folder defines the entrypoint for whatever storage medium might be serving it.
 
 Usually people use an external drive, a network share exposed by a NAS or even bigger things like cluster shares.
