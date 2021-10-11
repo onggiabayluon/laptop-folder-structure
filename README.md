@@ -6,6 +6,7 @@ The best way to organize your computer files
 
 How ro organize your files and folder effectively
 
+
 ROOT
 
 The root folder defines the entrypoint for whatever storage medium might be serving it.
